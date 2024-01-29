@@ -1,31 +1,30 @@
 {
 
-"version": 2,
-"message": "What's new \nအစမ်း အပ်ဒိပ်",
+"version": 3,
+"message": "What's new \nကျေးဇူးပါ",
 
 "files": [
 
 {
-         //server-1
-         "config": "4p50yLJqCDRHxs6JNJ38Mh/jvjQGXpiFy8uk8jMZIT366CHEGt6FPFaTUBGUoZUbXxn/D/cX6bn7X69PgsbOGpFwDfV53gdUY90p9tJ/wVFPV5t1fqrB5XQK1pf4LbXI8MxZqM6CY76McFRQpM1LEsrN3en4dNEfpZPICWag8u32zdMXO7QC1nZqvjMlrD5D0KH9R6J7prBRi1Hx/ofcRl1veSY="
-     
+//server-1
+"config": "4p50yLJqCDRHxs6JNJ38Mh/jvjQGXpiFy8uk8jMZIT366CHEGt6FPFaTUBGUoZUbXxn/D/cX6bn7X69PgsbOGpFwDfV53gdUY90p9tJ/wVFPV5t1fqrB5XQK1pf4LbXI8MxZqM6CY76McFRQpM1LEsrN3en4dNEfpZPICWag8u32zdMXO7QC1nZqvjMlrD5D0KH9R6J7prBRi1Hx/ofcRl1veSY="
 },
 {
-        //server-2
-         "config": "5o3pEgw/PQbDFZmneljDFBM2zdYR4ZyjIDTxlLT8DmJIEL4APiBuGKDoHmbpu0hGDUM8P9iwDRETPbz6ZFdannHS26qxg90PaVyTwsYyBhHiBbFC4BVSApPexF0ricyizJ6ew4x7a/uWwRqE0NSKylvx3jFK5+I041HaKyZPLzNsPcpH1ayGYlkJQbvnRof70pIc7zTHbqsSClA27x/ED10k22utckGy1yZBHg=="
+//server-2
+"config": "5o3pEgw/PQbDFZmneljDFBM2zdYR4ZyjIDTxlLT8DmJIEL4APiBuGKDoHmbpu0hGDUM8P9iwDRETPbz6ZFdannHS26qxg90PaVyTwsYyBhHiBbFC4BVSApPexF0ricyizJ6ew4x7a/uWwRqE0NSKylvx3jFK5+I041HaKyZPLzNsPcpH1ayGYlkJQbvnRof70pIc7zTHbqsSClA27x/ED10k22utckGy1yZBHg=="
 },
 {
-        //server-
-         "config": "b1QBmPfNDlQL0qul1t5i+IJAiBN0eWyuywEzmW97KnDs8nIT1MS45RgxMmwc4YrES77kfuZoE87Xdz4a5xnuEphQ97sk4SLKfFk04oE7gRdP3S70GpzHyfgQjcFkmtkEt40YQXr+R8sdbBSFP6Zk/FEluTjX6qSTWagnze/2PbHqwUOZcaY+U9dinwD27F8840xE6vJ/26Z8a5hzJjLB3v/cH6yFz8wSEMOvExglX43oBL+hDwTma+qAVO6p8Vrfb+mGlt1Ji5t7EF7aIMHvA9mcxd9HYeWOmGp21cg9Eq5TqztfqypW5ZyytF+l9oJBJaLjAoTOhxLQgn4zDT7MY9KkRqCY218lcJP+GT+vBX4lfC2PwBGwTUVQmekmG8rM0Wgr147G5LrCkF2Oe1Cb+zej1mvWzcVzzpIrQEDQORO/AQR2F0+4TfO7AtwZFGGQNP7PJGZ9vFWzflz1"
-                  
+//server-
+"config": "X1FqUzAawJWJ+iuKIaH17TiG1KOQCaYwZ7GHJSNP/o0OpVzg0R4P2jPDYykFfPpAsdXVXKzTy7jKbBywY7X9vpA6cqVb6UrPcrs2lWwePMV3GkXimu9cBIWGdTzSBtb/5I8u2o9KgN8aYvRPNHexIug4yIGBJnU3/HftZaPMlm56sUV1elJQ4oWl6BZmSGU/wEWF62vh2nJN6ut4QV8lKh4as0bruXeI"
 }
 
-   ],
+],
 
 "dtac": "Dtac ဆင်းမ်သုံးပါက ဘာမှစမတ်စရာမလိုပါ \n• DtacNoPro ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
 "true": "True ဆင်းမ်သုံးပါက *935*99# နှိပ်ပါ ဖရီးပါ ပိုက်ဆံမကုန်ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
-"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)"
+"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်
+ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)"
 
 }
