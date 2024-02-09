@@ -1,16 +1,16 @@
 {
 
-"version": 11,
+"version": 12,
 "message": "What's new \nကျေးဇူးပါ",
 
 "files": [
 {
 //server-free
-"config": "uS9wrCCb53FBQ949XNoMndTRJS/OR+lEDpUhmSNoFY6aiW2LiuPKrgB5xHZwsEwzknA/octduttuaU2u9wVxKuXYwrJgX9vICFxYu47M06R73DcC6PpSk6R3ehQ/zJ63P8kWPqZwKTgwBR3Tm/9ejr9PVza/zV/4BD6mOYMGih3x2ykdIkGxTOwhPozp7ma3gZKXo4U3q0wtgujVBjH61gnDcbhFQ+yxhCM2xGrqE5d5/haEJj6c14nkorVA8HSr4MgbxuuF+kjPIPrx5Oo0B1kycwl6jQ4S6nHF5jGQtJSAuEJwxN6ssTV5tDJy2/Pj1Z/HnwnlbXMyFx040tl47K4DtTw1rCoJDa/Y+Ij9h50btrueFvXNLT4TskGj/PXuFZkfZsbFWqGhc4Y9uFILbg=="
+"config": "4p50yLJqCDRHxs6JNJ38Mh/jvjQGXpiFy8uk8jMZIT366CHEGt6PQbDFZmneljDFBM2zdYR4ZyjIDTxlLT8DmJIEL4APiBuGKDoHmbpu0hGDUM8P9iwDRETFPFaTUBGUoZUbXxn/D/cX6bn7X69PgsbOGpFwDfV53gdUY90p9tJ/SY="
 },
 {
 //server-1
-"config": "4p50yLJqCDRHxs6JNJ38Mh/jvjQGXpiFy8uk8jMZIT366CHEGt6FPFaTUBGUoZUbXxn/D/cX6bn7X69PgsbOGpFwDfV53gdUY90p9tJ/wVFPV5t1fqrB5XQK1pf4LbXI8MxZqM6CY76McFRQpM1LEsrN3en4dNEfpZPICWag8u32zdMXO7QC1nZqvjMlrD5D0KH9R6J7prBRi1Hx/ofcRl1veSY="
+"config": "4p50yLJqCDRHxs6JNJ38Mh/jvjQGXpiFy8uk8jMZIT366CHEGt6FPFaTUBGUoZUbXxn/D/cX6bn7X69PgsbOGpFwDfV53gdUY90p9tJ/wVFPV5t1fqrB5XQK1pf4LbXI8MxZqM6CY76McFRQpM1LEsrN3en4dNEfpZPICWag8u32zdMXO7QC1nZqvjMlrD5D0KH9R6J7prBRi1Hx/ofcRl1veSY"
 },
 {
 //server-2
@@ -22,7 +22,7 @@
 },
 {
 //server-4
-"config": "HMO5mW2Fals/rhehpaR+GcXvWtx8amSSiWSXZmUpj/2r8aR62uxiFSP/rhmungFaKTQm3+Qc/UuhDhMw48kVmbsg/OQc6JwTxzTM1Gt35fKhotTAhjWOF3HamG8+A7iUc/SuQC7gGNzFh95KhHe/Xf7HfqEbt7zXnFb9LAzskoWYE8Qb39+70zqm+3jLKYMJf5C5Yhc/rE5oqJf6BZIqvMjXYhw="
+"config": "B3sa6xwX7F53tB3fv+JWVEKwWpnA0RZnzEucZthVD0CFDRC2Qx3TqOrvu95fj9gitFvOiG76EvSNy8AjuDo/SPgi2hRzWOcIU3dUEnFIJpXbnfZEyoyJcX1Smlv2aNmPepoiN78bWwBn/lPBdoD8c3xbJjG+a8gMV0F7u+a+ewAS+t9bTKw/rnTNi7fWn+yBmglnqHoiMnNKsuF8v6zJZEqP7VM="
 },
 {
 //server-5
