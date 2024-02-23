@@ -1,60 +1,21 @@
 {
 
-"version": 21,
-"message": "What's new \n😍DTAC🥰A.B.Cဖိုင်ထက်တိုးထားပါတယ်",
+"version": 22,
+"message": "What's new \nကျေးဇူးပါ",
 
 "files": [
-{
-//server-free
-"config": "uS9wrCCb53FBQ949XNoMndTRJS/OR+lEDpUhmSNoFY6aiW2LiuPKrgB5xHZwsEwzknA/octduttuaU2u9wVxKuXYwrJgX9vICFxYu47M06R73DcC6PpSk6R3ehQ/zJ63P8kWPqZwKTgwBR3Tm/9ejr9PVza/zV/4BD6mOYMGih3x2ykdIkGxTOwhPozp7ma3gZKXo4U3q0wtgujVBjH61gnDcbhFQ+yxhCM2xGrqE5d5/haEJj6c14nkorVA8HSr4MgbxuuF+kjPIPrx5Oo0B1kycwl6jQ4S6nHF5jGQtJSAuEJwxN6ssTV5tDJy2/Pj1Z/HnwnlbXMyFx040tl47K4DtTw1rCoJDa/Y+Ij9h50btrueFvXNLT4TskGj/PXuFZkfZsbFWqGhc4Y9uFILbg=="
-},
+
 {
 //server-1
-"config": "g46ZrsO7Z/3m5xtZkw0RC+ZSZQIh+syjYCHCq4nEAUNDjyqRN/7X++0KDKHAS4ehBvGn0oF/FTe3ZuNS/DVZa5meBrU0z6fKbaeyfnsfYL/eio8EPYxokx9HOpBM+ZYy5yMj+pjG2ShuiW4qjpviIF/AfUbXEjR+vWCW32v7J7YmE+Ule5Yi+Co3X9JIZYk5KxtCRyiXy7cDauXacJx/vSs//mk="
+"config": "amhT7jUTMq8uXhmpI4851spYnLNng9NB+doNGQyMZMlTolKD2TQtsLanKMjLXMz5iLKlq0F3xdLZG8+jeAajrUMnR25wdnpR6wBAjlOo8T9q8otslaaXrL25pwUrOkGf6/CYR8cblFjOkxQFvkATj+5S6DTMmszdUz40A9YaQ2hAkbf5QMjb42yAtSXBB/WP8UFan5tUC1OvpU/N0p6d1UqdD3k="
 },
 {
 //server-2
-"config": "5o3pEgw/PQbDFZmneljDFBM2zdYR4ZyjIDTxlLT8DmJIEL4APiBuGKDoHmbpu0hGDUM8P9iwDRETPbz6ZFdannHS26qxg90PaVyTwsYyBhHiBbFC4BVSApPexF0ricyizJ6ew4x7a/uWwRqE0NSKylvx3jFK5+I041HaKyZPLzNsPcpH1ayGYlkJQbvnRof70pIc7zTHbqsSClA27x/ED10k22utckGy1yZBHg=="
+"config": "ojZd+9BSv7oi0yY2N0XcA93DQFW01wdYnZu+myTtbQfzQAnhc2C22PMfDMoK8kWJ2xSHJo9oe2OcZhvTXeiUHh+Q8A0sT/M6VdQnq3ateddKhYiDTuDRKkF85vJRH5a6QnA2gaSpF5SUCriPOopdEKiuCRqap6KiZbVz/u3FOO9YY4wfSiQjAqzlnE8X8hLSvc2qFl4hBzousZXGPkD+kmBYYwk="
 },
 {
 //server-3
-"config": "6nRR7wdf+aBZOQsE7vN03pXsVvvGWGY+6L0gVxfob+hf/O31tJfRMbWafm6nFM3B4zusZ4NqZoqLHFAG+YPU/f9vfUVz8MHkGchDvjAmnlitD9OUJLJw5KkDtunnYoW/9pBnqAuK4SUFLTel4JpOwZZLrZw81mOOgBN1yWuIBCWKypWaDk2CI6rdyy7lJKBzU1CtNa1cL6Z3JD96s5h558bDJKg1rDve"
-},
-{
-//server-4
-"config": "hlEza7PXQqOPyf7TUqQ5EofY7JApffbdKKFYb9kaf69k/eEK6JGyhEqNTZE+6Eq2cbSf0KlioZbhtjJaYAu4fM1djR1QRmUpaNuytwyi7yOslFkBCWzxajeCYdsAQIMN+kwLYL221AkSbLDJNIPUPcFlcBH0NXRkRyqYI17ecUPqpJFFzplSK26JKOogQTX5AkyNlwfcyAgXd5oFQcjySA=="
-},
-{
-//server-5
-"config": "h0leN2+71/WX9107vgGxxA34dPRdp1SJr8cuyNfD9S4rli19VieFED01X4svf1DhqMEyOtlNDo5hzqgGbfyO3xLewR1LRU0ezEBd8ZJFDSw6AzBUDyrF0F0QocqDc9ztyVeq6xB59bhVtoDDETZp4cISnlfhAt6KDM6r8ROyOn6MFzdV+wQAUw/OtlBcRWOxvBGjsw04nJExlLWpRQIOlIAjfoP7AbEz"
-},
-{
-//server-6
-"config": "r69meJ3cRXw2e4dWEaKhzwubbBtIkVEowCZVGlFNJRjVS3/ETNNICjWhFtwaFi131Ui1VditNdIndbG18zKzsAs1JOyyr5HQnXb1LUAUQARM592dG3AlaNfZYwsgjziEJWlGeqGKqq/KnvMpd3nifwfRMooXgL1BJPIApDn8IGm/2nqgRP3JfTQxnuILbGiHBOjcGx8tpL0PQEXpT+VetQcpd1s="
-},
-{
-//server-7
-"config": "WrEvddU0l770+Dw5ZzS/b/AoGxoYZp0ew0SJJqDPtsdSuAvX4j/HBj0NGmzxgQhMxKDE9vtUd4cQS0Nw6jFpXyWeNdGaSw3bY8fYaYwNtisk0ACB5tYmgdmAp2YHcmR5DFIpLvU0pLevAW8GUwEpkWE2HcwtxKkVqCbdKAEz0/tFsMpwnn+Hz1scmeqsiMXylmt7vQEaPpz+SIZ/FPIjmeTANVIxiC7vHQaDRLyfumnOgatxBOGC4rjeB2X67xsDYB0osV67Qa7B4Zt84xiNoxDsaDalR+yO+ZJ+kjEc4c99om3KD/PoYWSAPT52Jjn2ZCoTZ6YqbkXHk/CTXCfXQIyoWLayieK7TdakuaE5ZyKrE2zMXaPsbcrBqpChzJDbzkij6xds011FYv+LQ0jtaapuxeW+NgnBTcnjajrtB5mUQIP7EhG5lg=="
-},
-{
-//server-8
-"config": "OLlVV5x/q9erYuUPbPC8mypgOIxy89g9yq1ukMC+VGDG6/kDo3/Of7EtV1qaOFxu6QX0Nti6/RDjmNoWjHKTM4FIprux+0jOeuBno8MzSybWYtkqGSX+Mkf2hMl8MA8GpySHM7gsXCWZjP2sko0ohTmgPRzsXP5RGGbiHTSYQObC38F0jajb7ddgGR/x91TAIy2uuu37zuwrAe3F2z5sTkgK6bzwJHgcIQ0X/skXeR5n648AHzAmU1PSVNgUN8/QfhrPvm5QGhb/gY+1S3bn+9DP8lqV3n5S7T8OEh3D1+/CYDK6yiA2bawo4+rTVCEYonduC/x3rqWcHUlaFSGtyDaR55SU2b65w9+jgUxEQYukjFS1mF6Z+0pkYl0d8hkFadF6Qk99y1p8FyJA505fo8PG3JL8iXvS0esR60rnySthutm0Wnzr8/Q5jVL0DZPDWAKs6g=="
-},
-{
-//server-9
-"config": "F9e0EYj8uaCkzX7b+qQNnwDCJvOkMA0pzJ83IfXpPuHeD3DzBKSV81Bh3An7DL8CBQJZ0pnsuD+syCs8jp8STlEGyXuErsbET9wpyILLhDssvarinVWM6enOz2UVt2YF+MBW+AxxwVSTq3iQFrd1q0Fg2YNOzccEGKMHshuQ4XY3mVo+pdZFidornSCK46gigTp+ZeZ2f8yircMj42SC1118PExvoDEnWBUgm8Zi9Bgod1hZyNNbhhO23rKaiz+FN2AEVpsrXOkQ8Juclo/5/cXLzHqHw+airNSbESviaxuFniMlLX4JunQjTssq7tSXjU4DYTm/t6WdHZYkjQ2BEFkV6G0RtD3Jj9VYnauxKt0XzmBp/IGFV2JfpSFjFPAdiDSmZVedVVp5fMG0Nj7Yv5mpv8tkQqgaHVNG6SJNFNSizu/JAQzoqdvTGRM="
-},
-{
-//server-10
-"config": "R50dMOJujTfYwZzmnXS9Y6c0iGrnN1XV4fAV6+/zeYzjLj4qSXkrJO87e1M3r9rXCG2Y3gpSiW/Dj8bPT6hBL8DB5AMdd9dPt21D7aclMzW6gPUNnhrDcRN9Fd3yaqbFHWe8bUvipSZjGVX5k+rIQ4fym3b+2ygnN4jHrWXspuvRZK2wPU6a2hOI5WwGdyzFYZSb/mE9gq8RLYEyPOJuU4Q6oztpidft"
-},
-{
-//server-11
-"config": "e79RHbZ2uOINmX1n8Qtt2oq9Gvaql7innA1w1mUVGW/kM2HFUwJKFBOse2Go26K7/dTt0gF9q50qXAhcawkfjE8dZPW7hdY0u0cqhLSFWp8Jepto5YqOvh4yRHnq9LYpSelpMApz/+Iczwo/EREbjx5RUqx4gDhw1RJ3vGgX1M3ZkXfYUm/+47cKQ0tH4JuD7VnQ720Urf2q1VHF+fTj2KUpqAF37gIo"
-},
-{
-//server-12
-"config": "hs9P4QWQ0/En3cDzi4J2Mnjs88ipiyzCs/oASxN2b+qRJBAg43mfN5uYY33Y+EIetQebB/AFDm0rAG1GmO195xysqHt2RXB3AWmCmo3fgVAibwWffHpHtFpv2eVE07b35kLK9KUYvOjwG5kw9Qig6xRzgGMo1ezVJjpVe33H9zLxjSmCMv0KZ/N/yKKOHFZaF2H4nXj2ap23MGp+NYd7Ksvm5G07qtLZPA6N3tgTaI1So6GnoL2SbqRTILSPg7OBMDQR0d/eKDi0ZeO1tpZtfiDruaiIv9h1IMseYDUzLYSaAezIcv0ujoZDHXKk0OeaJgpLt5P4Ujd6Puvl87sdjwgq4ucBNBvYhgNy3lirlmk/uTqZSuilyRf2Qb7WULexK0hR5ilvW3A+1suwrijL8+/N+2LeZVdylQFd+N6ElZ4s/BYp3uZMzotAhN6ck1P7"
+"config": "pvsL3Y7enxTeHRzpAEVpSDcHYQ1phFVxMsY56oSbAoe/wqktJtJMNv0MCCReR75c2uvjKyJ2HEjplivzQ9gPYjcyYmeeslIao9+uChi/c7XtpEfmkU185adXMiQXHLpYIgGRokur1VKjc8kEfehbuLiaQ/ErCuQCg91NpG0SxC7FiCLAPJpoqwklyTHzLgy/tgV2nPADPcXeXHy7gtdzbjqpWmv28ZWeHcUjwxXdrO2rb5cf5gnPsdYn9gXYlE9Gx80nF2XeTgr1cvIwLiEExiKpQR6A8Yp616tZtX79MH62iqey+ZTucV14QKQ5NSx11dHjxJShF8GwFNPFgct6nhSW36DyMRvEjbn+1Ylcmpg0JxpHEzdbpYqCq1UB7F1yO2xEvZ9TRrDU/SR7Yvm9N4R5no0EV7yYw5aduJ3sDxQewwz2m74f9cjFntc="
 }
 
 ],
@@ -63,9 +24,7 @@
 
 "true": "True ဆင်းမ်သုံးပါက *935*99# နှိပ်ပါ ဖရီးပါ ပိုက်ဆံမကုန်ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
-"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို ရွေးပြီး ချိတ်သုံး
-ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်
+"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်
 ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)"
 
 }
-  
