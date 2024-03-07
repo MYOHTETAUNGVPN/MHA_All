@@ -1,7 +1,7 @@
 {
 
-"version": 39,
-"message": "What's new \nDTAC&TRUE",
+"version": 40,
+"message": "What's new \nDTAC&TRUE&Ais",
 
 "files": [
 {
@@ -68,6 +68,26 @@ Q="
 {
 //Dtac-5
 "config": "NyaT2c9GLCrQzIg/NNn/F2vjCNTF29XLzqF/mn0ykN6N3rQo4GnUUJAj8FZUYpdpS12HYaHTL3FqM8YEMattfevZ8Yg/MmjBPpgvbeB5eZfO6yUgLesbCqbAQXzXwbiBb0rGCrzzxiPRznQA8I1pUaufQ/8EggETXmn/PoCSsQ4ABFHvFt9u3uGFIIxZSNZMoHSxE/J1ffAwLbF1lzFD2JNhe0SSOg9abT+aSKlPfmY43j0JJArPAZ/6vtZZLf2J48LOIG8T0OPx+6M/e7g2o7oeX+euEn4XndQpFTLy2vuZSsFfP7K6yWFNx+kMRqcoImKDr9f7lz7YNmdtc5Wk3UxEJYvphDVyVb6nVDZ6YBkQvav+4+3me9k/FbVaKEtzzzUvQnghIp4Uwav1QURnVJrg/QCFCKkeyl8lE45J+2NsZxaZCKi6WmPaY8o="
+},
+{
+//Ais-1
+"config": "RNZIDnlJr5Q9UdepY5WRZySCD+hyqgQnRmGFFYoeISIG+bXw4snk3W5TktorbTmJb/rlN6EdtI3gbJVg389JjCMIpvvxu0yFe+4A88woqV+zeT9g3BVioG0U7oj2qi0U0IdtvhzZdvlSYM6DaMDqdBx9efDIc7ySAQX2tMlv3gbCfBmVEcCXj64y3L4AZN9bchqiVnAhYUjE+6Arb7UxbEuG66mznneD"
+},
+{
+//Ais-2
+"config": "r69meJ3cRXw2e4dWEaKhzwubbBtIkVEowCZVGlFNJRjVS3/ETNNICjWhFtwaFi131Ui1VditNdIndbG18zKzsAs1JOyyr5HQnXb1LUAUQARM592dG3AlaNfZYwsgjziEJWlGeqGKqq/KnvMpd3nifwfRMooXgL1BJPIApDn8IGm/2nqgRP3JfTQxnuILbGiHBOjcGx8tpL0PQEXpT+VetQcpd1s=
+},
+{
+//Ais-3
+"config": "sJVfU5b5t6ER0Ynd5pKB1hudwEfG4uMU8o5yJI/JMRkb6FuqjSaY0+ywfR02jteHPE559apNSw4Qfigvfikq87ZkE75/bngDzOVG0MA/p6OaNtHM8/fYGa39x8oS845FO8iOyfnAIWoPE7KkLS7Akau/M3p4WURyvoYeC7ZVfw2szizgOIeWPROrKf48P/rc5QPeEt9dRoa8k5xPRG46uiH6frFc3undcI3GBN5du8TUSZpb2NL03JhIrbLjBKVyIEb0jYd+B2Fq4skfVrIfc6Pmvs9AORhf9bjNRbm8I/7t7sqd9IBvO5G5k0eGuaCfddBzwSk1shTOx2GboVR9RDB3G68w62aM+lLBFbNA/nub2FUdeBqIIAqnYPO6S2m1NL9hiB85Bx0JpFh40eaerb0eSgK+XLB4+/5nqN29KP7oSZDTHGfBKmO4O/ungGOqRPN1LIw+nr4="
+},
+{
+//Ais-4
+"config": "EBRNQddPT2KQWwGbw0YJa9dwlFUIXgBGtxHIlfC5iU6Shovl6AQoapKpUYZZfkfX/TuoG3M/brRXJ/GPXvUgFjlGdc1dUCoaOwpI2BVMuNimL5O5eWLwEuiW7NbMIXJpIXLs6yp9KO9nfI/H0JeREVJC33ALdLtzPnvcX6iXw0hogJqMexyJd2IzfxvikQ7BDu55EZ77L78tkKEUD/uhOCH49OpBp0VJCTLNjNtH0wEYghyyvyfkxBkaUtSmPtMh6wCinkeqTJfsYhLpRHSii/nimbohKwa5GBxgnrxCT7bgyH46rPixKnZYkCfrFqVhChu9AZdzEN0F9GqhG/MA2d/hd39QtmmeLVtRyU2gmb/uYdqOpq38ER4vBtTVsh6P3iL95igROiMHPPtGUz12nuatzdbjJKPjtxxCR9bhdBrmD34vnvN3tbelZ3gIeKdpV4nDoTlS4Mw2iPpsclS9QcLjbXlD4SOp8JIUSg=="
+},
+{
+//Ais-5
+"config": "oW98lcOSmXTbSuGverYa/xFQGg3UNXsLEYF3dePb9SNS13zO7eytBqKeaCCookz8px0v2fQPk2DsLWlVo7KroXXA2dQw3JJrNxmLcjcEZBWsQ5CKyNdsiFcHRYO05a67gQwvtf6kxyUtMN6Eo5dc0oPcueGPQuEpxAyfYQK9D/7lwR1/zso8nehBZ0WSngUwUT9eTV+zV5G74oxhSpFVQH4r33dLxLMusdhkSY+TwdgG61UfECG5lY//TIeRWszGISuFsczxaRzrmZ3IUsIUeCyosrtn2iRTadbJklJsPUiw/AwHe6DfOOr/BTnCoZAfWcOZo20yGzYLo28EfWPcnC+GkzbFxNu9fCf5QnsXLcepdWERcZ9XZJdoY6AQKEOy9pMKE3ENFJD4GHbvrKE9JklNN+d9qNIdKtfppk3bHr6XZSe7ewkpsOTBGBhwt0xt"
 }
 
 ],
@@ -76,7 +96,8 @@ Q="
 
 "true": "True ဆင်းမ်သုံးပါက *935*99# နှိပ်ပါ ဖရီးပါ ပိုက်ဆံမကုန်ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
-"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်
+"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို 
+ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်
 ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)"
 
 }
