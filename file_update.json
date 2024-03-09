@@ -1,52 +1,18 @@
 {
 
-"version": 43,
-"message": "What's new \nDTAC&TRUE",
+"version": 44,
+"message": "What's new \nအစမ်း အပ်ဒိပ်",
 
 "files": [
-{
-//server-free
-"config": "uS9wrCCb53FBQ949XNoMndTRJS/OR+lEDpUhmSNoFY6aiW2LiuPKrgB5xHZwsEwzknA/octduttuaU2u9wVxKuXYwrJgX9vICFxYu47M06R73DcC6PpSk6R3ehQ/zJ63P8kWPqZwKTgwBR3Tm/9ejr9PVza/zV/4BD6mOYMGih3x2ykdIkGxTOwhPozp7ma3gZKXo4U3q0wtgujVBjH61gnDcbhFQ+yxhCM2xGrqE5d5/haEJj6c14nkorVA8HSr4MgbxuuF+kjPIPrx5Oo0B1kycwl6jQ4S6nHF5jGQtJSAuEJwxN6ssTV5tDJy2/Pj1Z/HnwnlbXMyFx040tl47K4DtTw1rCoJDa/Y+Ij9h50btrueFvXNLT4TskGj/PXuFZkfZsbFWqGhc4Y9uFILbg=="
-},
+
 {
 //True-1
 "config": "8xrd1cAHCD3pAb7PkK1Ewvopiih53ULWovIvQFKh+Fh4CyMMo4mg/WqXcMEB4PjhE5ZCshL0C6QSbD42tCKZ1ZmvGp2KXopkemxg++zpAY5qQzqvILqQ9e+/mYe1srm0cq9it75i1fKTDvT19RtB/IcXgXYxhtLqkx95OwqgQsUXyTGdWJfedoLLj/wc3Rbw6aNOSO9QHKgYNA4IlaS0lHJ6yrVZisicyfOiYqc01AQX+c01qpj4MGCNgVMJtExl"
-},
-{
-//True-2
-"config": "6vuY+++ymy+6FWUiSaPQS4GFMvmzTvv/OI4pQ4U1atOxz8uXaZKTky3mWVC/QJjtPBw8TlElmr39jwwM0FnhzFno4WPAaieg2jM4eC+7CDGTPvc/hxTZ+wWLGmQSXnCkWw1mI9KbLmQqjBHSkXb9akm8eoMqpo1Y1WM91y4yKyAY0CQOKaIlfcSn1JdEh57qeP8DWTiubEUr018N34UvH9FuYYdoeGTLyHa4DUAZ2COsGqs68Q2sfwaujrFmNrrS"
-},
-{
-//True-3
-"config": "9gsijMKS9RTlqcQPiV8B2K2YwB7ozwBggZ8DZ1L2mQqK6yyRoMEdmKyqt1qnSFEgn5QqssBALh32/+PnXPpH+HrVrJWMEhtnvxrw/wTpOrDCQKGxWEJl5M5zJaaYieXGxGUPjVGvws4wQzga1JPtl3FyV64/54JXDfTuv1qLDNnxg5JZnlUX1Wcfm738AyuU1BXwz9JAcRfFi7nRS08p+RvZaWYPMvt2+6baYAE/aj5GoGXRSshEJct9bwgX/ji6ID6FGMolZ21O4buTnhsXaqKGzjKu3rriJNjWYlBqUyDoG2KhmAeLSCtiHvT5+LSM7LEqlplCsigWwqd/Qg1GOhbig89bGKv1ddOYvdxn6H4BMYNYZAd71Aaguq++zoqfSX6o+xwDHX8O+DWMVTRKQenkQ+b/3qDTXfVKQy/0/wMSQ+ofC4yIvBmJZ3chQUrWU+W9PMStiGhjifmCKMMTGyjFKAn5mJ0uz7aSuMs4o05ZnVZXt5SvwKPT+14="
-},
-{
-//True-4
-"config": "zrnzuv9tLBU7cQ6rFJ3TRHg/15v+B8I9ouL8owJrlEqzUijLmF1m7Y7dKRGsjmgX1epiaudcvDJh21TuvgcJK5dp35O74HcEfo3BwuljdYlhvIXLJf0D0thoo2uoXCQXAcxfJEt4eLTIENT8OX4ClRgDT4wxl6eL+ib/YktJoks8z31IJbIUUDwv0sNf0BId4QGoEc5HKbxcBlDuBjGW7PoKRKAYAuX/VP/FAGErGt4gOyDJsf4OvDbDq9PU9hf6H7Mady8VWBWTCN8dsxoOoZSp/aSJdCc3dxakK35uFrcdjhihMNSDJlsSK2rIdf84DbnI2NkPReVVx8yhfH8IWSXouuY3AxQ/jJni7zEzzV1znTwK0agfJpO0fLtJc6hZkKoLKm1WZWUNNpluFumBl+RiAvTBUajvaNoaSkjuQwBaARue5/Tlqkoj4cd2PNVVDwgBZcts8KYIEBmbc2FxlY1r96ANpQ/9OXZan4F80KoEJM/B4ZfOwA2vZZQWAeppUi8x78NlJ075O3R8BxwosA=="
-},
-{
-//True-5
-"config": "lfJmRe4fYMCkjeQeXtZvZn1Ap1HcHbv7WArzBRnb5GODebjuMW7y5r2zNO2tj3TeuFTxDTHSTS2CMMvpLtMBMbEeQ0x9SWxIfA4PC4MP0ZrwMo+vvsj3GT0D3mA5ODvY/OJ1JB3Xg0sTVKkNcMt4KVIKLW1JOWJ0nAPZHs/PWXrRG5H3sZcBGp9e0T0SkP9RRjZMHzUfiKHVi2VWCV6ALzA63ezy4l9w6CxjmV4MdehFsQN8wMUkselEf1aCy4QKURogjqgOQd29Bp5yqP/AoI5slKBC2NZKlmMDbMLSjDG284T7vpoatZh1x9qHSNwTZ79mhGNSMC4Jd7+FvzGwA30fSTmhMxbBgHeMuvMj26OEpDVvvWqx93gJUraKwqLrHOusKyhtoLRrPYUZOqgTWh2jAEwJbhj2NuxMZnhiu0kMQDoZRpxydfNMzPULPeZiPW+vOdyY1dwFaxDsTqMuy/Q8GCf5iueJGmNPDn8adizQKAu9"
+
 },
 {
 //Dtac-1
 "config": "txpThilPjejosO79IOZDWlOAF4556GRfoLgj2oo5sEWAiW2UrwUyr4xlZ/15vh0oZ4EmYzbSoq8jb2Uc4o6ew6kL/ydB1uAU/Nur5/aBrNQfNP00S1KCLZVOC4ZsZbtDthX/m13RsayJSCZ9veSj6aNQ4h1+/LtlR337xq3RCdHnMgN5Z9RIAJGf/xoRbe4S1AbajFiLLfh8BxubhlDtcE72jPk="
-},
-{
-//Dtac-2
-"config": "JqVYiJMe/UK3FqjzSnAW8iidNQeyKGgJVCt9FSS1N3HSqW5eQBcn3Ph0b4bGxF2ZaD5TSARBKPTwuyxJk5Zhi6tI0rXiU2WED3Eax7eKEN2a/DYa8u6TDJXPGQmuaRKAd7+pFAjZwwzlerX6hmcnbm25Ery7Kmc+q7a4r3WqDm6EdSIZpZhhXKV+8T5/rQ7vR8BNwKVgF+kgvWyH9akfkQ=="
-},
-{
-//Dtac-3
-"config": "WNLG96UnxhdOE23RVFeFxF91JQbVePJfLthN7I/fUzwqwNHdB/D+3gsLjl+3yui9OsSnDWyJylqoy2XfXC12E9z8i/mmTMcAjfZFIoFzKi1eYGwvWzNYCoolA5nqZBmH6Q8VSqZUAtlvydnFvByh5Voz00dfqifh/9odltAZguNtY8u+OSJCWMA7suBseWEZoNOEUXA1LKD7PeBPAPKgnk35nTv1CIPZIipTMOhJ9Wlp+Dpmd5NzY07Ap6/TEebS3WshJ0jNi+AwfyGwrypBybQ0+3oNb4nHWiPwxW5vLKphwMEdNeKC9moRpp48tvy/lkGRR7fII1PYmenOAnlyUbo8IL7tYS1xlNP0U9UDrM+jaJ/qNkCZlVWJSB5IdGVf8vEPKMQMLjWowHzaUjmBcw4/IEbs61nHLWSJQNdoJnMmNOOfRRSBNH+Q4Q5mkfdyE7jwug=="
-},
-{
-//Dtac-4
-"config": "DpWDPrtm4k2VBiFIXITrMJwSvyRPP0FUW7Z0iPsDnPDF/b5HYGHNSdSA8qquvAsuLnDWKDej8/HenYmhiX7lJj+wccKk6E74XLUBvrG5Syy/hT6ucLcaCBLzfEcFGbaOb6jNAXu5eU+YAFaZ+jO2c3Ccmilb6pnn/R3h6NM1Qtc3cysHjBYN6pTEALLyd+aHIKdjqwD+87HHfoWwtUHlyyZXtWiCJrje7E1IyCjyxRCPAMderRde/hMfxv+izDydZlYS2FIoxILxkGD+ad+6U/ylm2e2LSjcfZxLUVJS71KujjKUjtEIkc0vzJVBnXj9AYeBiN+8+22qvgom0l7ifuOBswlJ16KLJkJmgniIj6PAfqMjvCVgMjZ9JQctR8TXtyFmzfGqMTES1sfnuDZyV1Ip7X+bguWSYDLKPeUHASnx6ePkl16W85/Mlzfe00YZucj/8no8DEQ6OrS4A1N2kRlTq6acT2+i"
-},
-{
-//Dtac-5
-"config": "Jg50WZUfgOToGvLlxRwS0LJrYiwCgEDJksfoxAlasDJT2D4AjJXa/hBjy0ugkpN3TVjKVV7MSH1ZbX7qXK+/grLI4xFVxe9QOfMG8QkyEc1dNBiFydsVA+s4V5a6k4Oc8VEjJtVhILEo3QTs+J76i0XC777CAAT6Y01p0VXr+KP7Jq5SwORpnKyUlGtLowSSZ38nZwv3GPZVVhob7c+figIFB7vOs0ZBvYDlFQqjSUQQo6ofSoOyzL4qucgZUanG8uqKmhg/Ako9u08DmhV/l52XRezmF9zz5OTzVqdy79xFnSGpkVq1P8ryDZfnObpxTigztRMkNZF5nEMddxhYEyFUl2B/qmLg+AgBfuJeVnrx1cInk2AtdqAz40jDgsuCr4LJW2ymnUo6SphSIEzHJJ0nd7+HLTMLBpy0G0syYcLVZnIWnil2Ooy3MgA="
 }
 
 ],
@@ -55,8 +21,7 @@
 
 "true": "True ဆင်းမ်သုံးပါက *935*99# နှိပ်ပါ ဖရီးပါ ပိုက်ဆံမကုန်ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
-"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို 
-ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်
-ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)"
+"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်
+ပေးပါ)"
 
 }
