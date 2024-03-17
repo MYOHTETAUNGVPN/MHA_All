@@ -1,7 +1,7 @@
 {
 
-"version": 54,
-"message": "What's new \nDTACnew&TRUEnew&AISnew",
+"version": 55,
+"message": "What's new \nDTACnew&TRUEnew&TRUEgame&AISnew",
 
 "files": [
 {
@@ -32,6 +32,16 @@
 {
 //True-5
 "config": "lfJmRe4fYMCkjeQeXtZvZn1Ap1HcHbv7WArzBRnb5GODebjuMW7y5r2zNO2tj3TeuFTxDTHSTS2CMMvpLtMBMbEeQ0x9SWxIfA4PC4MP0ZrwMo+vvsj3GT0D3mA5ODvY/OJ1JB3Xg0sTVKkNcMt4KVIKLW1JOWJ0nAPZHs/PWXrRG5H3sZcBGp9e0T0SkP9RRjZMHzUfiKHVi2VWCV6ALzA63ezy4l9w6CxjmV4MdehFsQN8wMUkselEf1aCy4QKURogjqgOQd29Bp5yqP/AoI5slKBC2NZKlmMDbMLSjDG284T7vpoatZh1x9qHSNwTZ79mhGNSMC4Jd7+FvzGwA30fSTmhMxbBgHeMuvMj26OEpDVvvWqx93gJUraKwqLrHOusKyhtoLRrPYUZOqgTWh2jAEwJbhj2NuxMZnhiu0kMQDoZRpxydfNMzPULPeZiPW+vOdyY1dwFaxDsTqMuy/Q8GCf5iueJGmNPDn8adizQKAu9"
+
+},
+{
+//True-game1
+"config": "Y7DjbOB2Nu/l+Cb5hWvX2C/7UmoC2tFt7ssWErySrWIiZWOny6bpMWnznHXaTIjhRwn8Y7BLOUci9eZ2f5vNBoK+kE9rWIC55X/cRaBrepCxET76wiZBfK88kqNV6Pu0gyKsSsFTBDo3JGYT6fVViJEhQ8ZipxQHOTc8Sf4ZTRl7LMRq0OTjGHst2DsSV9umE5tXIrsFgpQjl5u1ZJC9aPO0DKqV4w8ITQ6RkBpo/Ic="
+
+},
+{
+//True-game2
+"config": "V3om/fFyIcILG2Gi8fPCRC/cZZwkHIAzXtAWaZJK3j+epxDJHJohZfaZojCIUvLWIjAs9BKpoIDGZBymub5A0gyiOdp1BkBVyzKOZeP0Qm87KC/vxq2lQEYgKtmNN4I27PiD/1zRHcO3v3HU6b/42n2dSEB7+YERWtznmEkV0HT06sEY51rkhXKy1EZkV3DIdd/wLJK/o0XivmFyd9OQtVz6d0yKnGYuicdiHV6nDh9FFjaLIYRNxDtjslUsU62ZmQmn/yFDmQHrhXYGEAV2pddFvrCAhU74ybbAGgB2ZMvHIrX6kbEjXuuFkOBXYC12/t3kKdvM6zuiaXxnDf+KRZzy1K1WOYr91lkQPil8Ok9whpvpkcSwisJT6l7jMpb++HEXGCaq69zjejCMrGda9m6eJcskcP+eokrSfIVr+/xPUE9zwDzJhBG1cPXLf8k9e5BZGyFT9IwsAqeFYIbrszXbJAaECPLZ4sPmYqgu4XY="
 
 },
 {
