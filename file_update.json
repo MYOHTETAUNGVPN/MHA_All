@@ -1,6 +1,6 @@
 {
 
-"version": 69,
+"version": 70,
 "message": "What's new \nTRUEnew&AISnew",
 
 "files": [
@@ -20,17 +20,17 @@
 },
 {
 //True-3
-"config": "TZh5apKWVHl0EU2i/3YeF63Zp2e+XXgP04+zQdSmLAopWKdTqhvAEqj23HBYgZXa+b62592yXlkt/oC0OPLD2yhK8YH4vzdpqfDH1esxdzx1kmwu8NAndPKYu41y2LAgoOVnoYTDc+OQJBIU1gkS+f+QlfHv0qzAxHcJczVjoOKItOji17cpHhPF2G/DURaHptDZntHdL0tlwaK5w9c0cixIquHLYpLWjxpHD5lXz995Usbo6RNzf7X/0545b5E+66uZG2CgkOvsWjA1oyOaQ/oMeI5q7hrYPGkzMGp/w53Jgwq0//jfsFDdripKewYKL4lu6VTv6Yr7lRS3b3mpWUf5bNLzgtCuHYjhGkBy0VsPdQBcLMwnKzaZtqvOkp6jju+elLrHZ8HYzFwKAnXg23NjfOrX5Q3vZZGRzB8n6a9bU0G55/njG0oUEdc6bYycBzuL0wcuoUW2jQn6GRBnI/QDEECnCXq0"
+"config": "+PR+36tEJ0jBFFdvvMcvZv7VOTogTeCT4oeb2J/V5vVuRNYjuKsZyEspPSCBG6UFOntpFrSDR22shEb+lW1QSePU9XssBv2oSnvuJjnGTEFQTCVfGNZwx/qc1kdtwu5GCXBLmpnG82+52Kcvd7fBxEdWB/O8K27gvVGofePX6vRlj4duHHcjamBcWy4v8KVXMrOm+xgyhMCiBTYFdkdw4Hd86yM="
 
 },
 {
 //True-4
-"config": "lawMm0QLGi04D0NAksR66nINA0qMKZ39tEFL0Y/E2WEznT/RWMbIA0Wn+LvB34ZLfWoxVDEte8Q3/BqVt6ZXWWSBDJ/R9+pgO0RH2SgOS2HGdVja3lfJf7t81iCApGL1M3nX7djK7WILO2yQdgP3wDoV6I3j7y5Y9y8GyTQRW5MxMR/UJU96VjPDqw5WyJJNOg96yqlbVbUn0eJAnC5LZGSD2+HInwA++F4VeTt4wYs/gHrDnzX50X9fUktIPJt02wl46jfDdT7N2lVLTaZO+aG+z1ZYK0aYbcMspzshWrAF60Ao3kOtEEGPYEt6y2D3aN0b8rVyd7TFrq0P9Nqib5IKrAdGr9Jt0cxvKwRgIMX0DL+8Oh1OeElNzso45UGTlHThD2MvmW76gY1y7OyhKumKdrL4WNlj/24HN3xkwu+P2+Yrm9zseS2uzfXpy9W6tpjrKjI9aBQPfCzHBm2sFnPnqyMpzuJ3TUKE2Mgk0aWO7aczHyms0BUsIueHXXtvE9Mgg2XVnRBOltXGukRQ2kkO9l2yw2XnS3hDVJdw0CCEc9lXSvDEziWjLEf5g52ZLNV7Fa5soV0="
+"config": "oXpakI4Rox/T/2CJ17ZOpy5Pwe9KOCYzKA5SPeXFTY5Mm1BOOVfJpJFo6MBqlP0Rmmyw8SpHdoygyE6p+MfcFllxoFPqUVn+S8X3JzZXy/4MZaLRZNgCbvEPZBSmqisIHM95l+MYBB+Q/SdisfUb4RqZz2X7BEUgj5WFbcypUkjtVvsAxT/6x6DNsFJneiFhocUSi+odtUdzJllrDEF7znHCwDjtdZ8fp/ANzQ=="
 
 },
 {
 //Ais-1
-"config": "RTNradgNb1QxBRUwJAdjQSpTivHpjnH0R9Iyvu0WJ1h8HH0ZvJimdNvGrjWmcbjTvFo++FlH0vmza2gChIoswF0Swv84IN0bSna9eTqj29gzmmmt+J2w0NBX0J5fEuth/P15KHaW8MvGe3/A5fMdj4pVxRRQ5VlO2KlrZTqvoznCeA2LC1ppP0jH2W/qhLvlyyToMyiSTvKK0IigmvF+NSpc32c="
+"config": "ZmUv10U4IU/LTbcL94uN/8bn+Ia0hN9MfCSvLk8YuMyJTL4ywcq7zjJVdawNHZZI5NX8PxFyzpz6xxSslHdLmIdtfpG/B2oeo2l3UW81x4RWy3dIPJpsKyb0Q8uF2xdbtD0JdVIq/uRfOaV9Bf99rj9NopL3OUd1M9jPTl1Tc0JjDKD9DT8zc8VSVSekY5gszKnBhCrU1Md9qypiNCCmHlFrIWo="
 
 },
 {
@@ -40,12 +40,16 @@
 },
 {
 //Ais-3
-"config": "nreChuLFCG7NLna/XRcD5+l+T68s8kQqiL56vciLV1b9rIGO/I+UlxJAh4pxjAkG1vb8yr9Re1AJ+YXOrtfj3vC49s5lsYOVggosUWKbVyT/AWQuUYP23vpKpCuwxFKKUJqIogHbiVly33WVs+z+b3Zi85r/EA/TVQmAx0RyuCcEQVs77HyehyWwhObn3Y7Q9BQ8pX3Xgjx1ukonWXEuYeG3t8oJduK2ZZVMeTUpm0HzJWFfxKh176NqOtEEygJ08bQIjKt2d2mk3xvbBRnkeN7Xh18NYaNXu+4UwknIa7y7TFzIM4JxQJq+D7u5Y4/IAOgdv9xbdA40xFeIX1yYsGJ94vvtJ4ZHbtMus4gO99iehUHVMT58iDOo2xodWpNy2KBYI1UXrtRZVEK5/SNM9u4L5mSa1spc4pvPOr7LV8uEAmqHYwSCZ79A/14abbv/Z4EyajVWbXKkLHET/cqexJwu1FkOsO5QgtTzvA=="
-}
+"config": "nR7/3ni/my4dyo8u6YFCejfyMoOIu35h481mWvCa1Ui/elQX09GbXZOy6LFcB3Uev8Eh5VIPDeT8gexLap9xi0GS3jQ/EidLx+MvpB287orvxjcn/4WP6s1AibmcilW8SHF1DqWp5nALb2CRSS6Bg3DGixhqbF7ZmMGZvgbKQDSGJCHaiSMU6UwbSP75giBzyiVkp11G04j80ZnunsIl0ylrp/c="
+},
+{
+//Ais-4
+"config": "dmniK/Vc/EJYCcG3iN7HD3RCFthNMsBIcTUxH7cwzQ0RwL0llCGMKakkSuMMIOuKZQKDBtPWkhTUfU/BVPLz9xqDs/ghj92c4hujFPCXS03rVKKLp0AIOTymSR6kukAHhLRepzVdyxxFrLpYswchi3EHaRWga4gXm8jpsbWv0pxxyvSx4g3MQPtxwohwjI6nJ34+A+mEh+OnZ31Uzr1lNLTtctDztAvl0kbppA=="
 
+}
 ],
 
-"dtac": "Dtac ဆင်းမ်ကတ်သုံး မရသေးပါ \n• DtacNoPro မရသေးပါ \n \n(ရလဲ ခဏခဏပိတ်နေလို့ မရောင်းသေးပါ",
+"dtac": "Dtac ဆင်းမ်ကတ်သုံး မရသေးပါ \n• DtacNoPro မရသေးပါ \n \n(ရလဲ ခဏခဏပိတ်နေလို့ မရောင်းသေးပါ)",
 
 "true": "True ဆင်းမ်သုံးပါက *935*99# နှိပ်ပါ ဖရီးပါ ပိုက်ဆံမကုန်ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
