@@ -1,6 +1,6 @@
 {
 
-"version": 76,
+"version": 77,
 "message": "What's new \nTRUEnew&AISnew",
 
 "files": [
@@ -29,6 +29,16 @@
 
 },
 {
+//True-5
+"config": "73bExx8WrW5trCXNWD+1p0wx/BTpQjLb6oZCYtiq6GNjPOHyqiHrmpxTnU05gJjCNkKO/gj4raa7kBwmsPF8PXVJy58Cf0PHKJ9mrjRplJPtoCH7cT8oSncppbm5TJ04Hurep7ZMd7nn3NbT+ULPkEmdkH0vcgzJ6bHdLmCPyFikk8DMG6wmGoHxtTGA40sxRBlPZH4TGRZyfmCsLR+ydMEZyWOTm+5N11GObsY1qkycjsAW+btswF+C8JoDq4gH2LmvLpkRHFl9FzyEy0Ya+rsxH8HbDu8kiMzBpEEYu3CchR3qLyi97tWMHuJNziMwBnnY+cR2VLTOr+N89BZohcqLHpGWUgiKmjn/qAYcWlJXjPOxRJcD+4R5xAmdlBy9Eoq4ICXKydJNhmMjZcMcZTnnbnWpqvF1TatOhdiU/hfZ2G8c"
+
+},
+{
+//True-6
+"config": "TQC7cFJFZ3MjB1tEiSd0qHoQNd3llBmMBntTqGkOjd0nWspfFTd5MjhR2o5/i86fpy+5zWDlHwk1j+e8lMA01J//PWa9BdeW86p6bl0z6QJOVlihHKhf+XJfj0n60qGoV5eL+COC+Bgaurw5eo02hIGNct0It50nnRabdwayLrXbL2ikdLdE6nZ3hj6jKy3zhuVB0iXJQA9zfXe+xxjU2CYVAiajOaBDuRw2putzZM0LrlTKYQK599hBP58Mp160G4VwsZU9brm7gXBB5/DTxVQq3XtV4vQI5oDLWQGmI/D82RFEbFzs69IyPrAi8m+RgbRWt3BaPcvr6iKJUnsJXGvi9PkdiZ16qM/kiSauJ7UyrJBT7PWg1G29PUQB2BXt8skZ+bFRU8/qwdOKDzXsBnKeOzJZCcIDztRGiwy9DWykWFQK"
+
+},
+{
 //Ais-1
 "config": "ZmUv10U4IU/LTbcL94uN/8bn+Ia0hN9MfCSvLk8YuMyJTL4ywcq7zjJVdawNHZZI5NX8PxFyzpz6xxSslHdLmIdtfpG/B2oeo2l3UW81x4RWy3dIPJpsKyb0Q8uF2xdbtD0JdVIq/uRfOaV9Bf99rj9NopL3OUd1M9jPTl1Tc0JjDKD9DT8zc8VSVSekY5gszKnBhCrU1Md9qypiNCCmHlFrIWo="
 
@@ -52,7 +62,7 @@
 
 "dtac": "Dtac ဆင်းမ်ကတ်သုံး မရသေးပါ \n• DtacNoPro မရသေးပါ \n \n(ရလဲ ခဏခဏပိတ်နေလို့ မရောင်းသေးပါ)",
 
-"true": "True ဆင်းမ်သုံးပါက *935*99# နှိပ်ပါ ဖရီးပါ ပိုက်ဆံမကုန်ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
+"true": "True ဆင်းမ်သုံးပါက ဆင်းကတ်သက်တန်း အနဲဆုံး 2လတော့ရှိရပါမယ် မရှိလျှင် ဖုန်းဘေ10လောက်ထဲ့လိုက်ပါ ဆင်းကတ်သက်တန်းဝယ်လိုလျှင် *938*90# နိပ်ပါ 9ဘတ်ကုန်ပါမယ် 3လ သက်တန်းတိုးပါတယ် ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
 "ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို 
 ရွေးပြီး 
