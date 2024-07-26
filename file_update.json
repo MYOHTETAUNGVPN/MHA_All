@@ -1,8 +1,6 @@
-
-
 {
 
-"version": 79,
+"version": 80,
 "message": "What's new \nTRUEnew&AISnew",
 
 "files": [
@@ -13,7 +11,8 @@
 },
 {
 //True-1
-"d80po0PK2sYIpU5zmefaovk5UxSokGR4OKPuBAlDycTp0/sV/PJbO2UQWC4cZL3wAA2Uhl1ar5drI6fgIZX4MS6sVAKAm+aTzV/cKE7ZR4JDwkdM2GbRxNQzVXBupt/gvll8c5g61hv2zS9Xoa/zLCIIR15dbUhHZWTuem0kaDDaqdDyTsKC+9RPoYOqI35FsY9f6Lv2zoNrXiFnoCKVFd1d9bCKn2Xq"
+"config": "tsY+sy+6gnbQ8XudBwYlYb3aqaeIhZOjk3W77XBdV0oY4frjnbxPONne6yajjZhfUyTbGLkYFX/fmzdtGI47wtKkv0YbyyBCD5qpPujwtOrCYX7f/behnSlUq/PK1BChuIcNU2wB7blOvp+1FKodUZhVHYcv/QP9DGFQc2M+NX/9Z1jUFCZMiMG+1t4qBc54npkBfxDJGuBhiqYU6AfZxQ=="
+
 },
 {
 //True-2
@@ -38,6 +37,7 @@
 {
 //True-6
 "config": "TQC7cFJFZ3MjB1tEiSd0qHoQNd3llBmMBntTqGkOjd0nWspfFTd5MjhR2o5/i86fpy+5zWDlHwk1j+e8lMA01J//PWa9BdeW86p6bl0z6QJOVlihHKhf+XJfj0n60qGoV5eL+COC+Bgaurw5eo02hIGNct0It50nnRabdwayLrXbL2ikdLdE6nZ3hj6jKy3zhuVB0iXJQA9zfXe+xxjU2CYVAiajOaBDuRw2putzZM0LrlTKYQK599hBP58Mp160G4VwsZU9brm7gXBB5/DTxVQq3XtV4vQI5oDLWQGmI/D82RFEbFzs69IyPrAi8m+RgbRWt3BaPcvr6iKJUnsJXGvi9PkdiZ16qM/kiSauJ7UyrJBT7PWg1G29PUQB2BXt8skZ+bFRU8/qwdOKDzXsBnKeOzJZCcIDztRGiwy9DWykWFQK"
+
 },
 {
 //Ais-1
@@ -61,10 +61,13 @@
 }
 ],
 
-"dtac": "မရောင်းပါ \n• မရောင်းပါn \n(မရောင်းပါ)",
+"dtac": "Dtac ဆင်းမ်ကတ်သုံး မရသေးပါ \n• DtacNoPro မရသေးပါ \n \n(ရလဲ ခဏခဏပိတ်နေလို့ မရောင်းသေးပါ)",
 
-"true": "True ဆင်းမ်သုံးပါက ဆင်းကတ်သက်တန်းအနဲဆုံး နှစ်လ ကျန်မှသုံးရပါမယ် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
+"true": "True ဆင်းမ်သုံးပါက ဆင်းကတ်သက်တန်းအနဲဆုံး နှစ်လရှိရပါမယ် ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
-"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)"
+"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို 
+ရွေးပြီး 
+ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်
+ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)"
 
 }
