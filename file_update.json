@@ -1,10 +1,10 @@
 
-{
 
-"version":82,
-"message": "What's new \nTRUEnew&AISnew",
+"version": 85,
+"message": "What's new \nအစမ်း အပ်ဒိပ်",
 
 "files": [
+
 {
 //server-free
 "config": "jh/yTwkRLi1RA2NPNNprhtZVNeJw9Y8ToD7t5/sBp95SLzoUwyjqYiNH55fYFfUMVkPFEuOiUk/Hs9iuL68/QEAeF/dA1Frl8dcLAbX/G7iuckeD2EHm8VMaBZjr9XTFN51wnCHO8+ErXp8XtqpLpMqZnmGqVWRkAlcKE4+N7vf9OnE1F5iLX30nj+72YKZ/WCbmm+GDdUd38gy8LsWsjgK0NVxmchuId3N81x0v5UnMnyp7ve2qEfcfWFQoo+FSODisgi73sSG42HDWxmfydtcImDdb20JSGm7+cr5n2ydfeBlxH8T0RHN/i4v96fYGbAbxMJ0X85PsPUf1Tow8QxVA/KkyqngdDUdsd8YCuiTQKgp7GsZN15SDYgB02vl36FFf8JZJx6xn7UchXluoVs+4UGdhSqe7OM61sLsPfNk3iEa3J6onG70TmK+TyZZaM523lXiL2YFZiExR0+5kOTTzSi8Ne3f5uzOHGbNGzhKAVTvW39kePf0HVynw3hwFI1EEEl/He6mQTWQ1mQlcUdTrEWyZ8KBjFJmHe8qVQJfe3r2W9xl90AGpA8o="
@@ -41,6 +41,8 @@
 }
 
 ],
+
+"dtac": "Dtac ဆင်းမ်သုံးပါက မရောင်းသေးပါ \n• DtacNoPro မရောင်းသေးပါ \n \n(မရောင်းသေးပါ)",
 
 "true": "True ဆင်းမ်သုံးပါက *935*99# နှိပ်ပါ ဖရီးပါ ပိုက်ဆံမကုန်ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
