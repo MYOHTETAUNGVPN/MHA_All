@@ -2,7 +2,7 @@
 {
 "Name":"VIP MEMBER",
 "Key":"268020b14554f45b",
-"Valid":"32",
+"Valid":"30",
 "Expiration":"13\/12\/2024"
 },
 
@@ -15,9 +15,9 @@
 
 {
 "Name":"VIP MANBER",
-"Key":"ed223f300c281eb8",
-"Valid":"30",
-"Expiration":"3\/12\/2024"
+"Key":"dc14148f1d28063a",
+"Valid":"42",
+"Expiration":"15\/12\/2024"
 }
 
 ]
