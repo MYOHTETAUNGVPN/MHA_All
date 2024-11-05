@@ -1,6 +1,6 @@
 {
 
-"version": 107,
+"version": 108,
 "message": "What's new \nTRUE ONLY",
 
 "files": [
@@ -31,6 +31,26 @@
 
 },
 {
+//Dtac-1
+"config": "EpdK4Ik2i4oXOYtQEAw2JDeGJlxYUcTbGoVS8pX07RrKe3O0JKIUNZwoxogcJaic3QQC20YovrTCj0rHf1Xt3YwIgud5N41IP5OnD94Bp0E1ywaGvDBOfOSxljjjSWf6PliKqvVv/b9KwzdgTRCF1Kf9kamSIKM+AiYXbpRIFWk6lw/NcTrs+Ln80vR92VcVvUHG10l+1Ff4Rsw/+hDgYU9QUNIMsfxKWNPOv3zYDyfDAK9metknSA=="
+
+},
+{
+//Dtac-2
+"config": "rlkoaziWv4gQM/wWluQJWHS0e19a5kAq7gLxMcZKOAj3J9xTZT2Xp5rjmd+DRFV1NCY5jh9qfxSZmwcDx4s+J1OqXHnKXPqHuIhX0Hw42aiyS7Zi2uBvyyrMHRfC10P9EgtdyXvD+JqdO+m5XKF5KkXu376+7GQ6q+Ax3jdn4+JcbQIdIX5zdEKX8TUOGljJvrlLRU8Jkbc+aVg0TPcGr1W/IsvGSFQ+4z+Te6RIkc6qixiYneiPuw=="
+
+},
+{
+//Dtac-3
+"config": "DGjnfxH22xJKYOB+4eMv7ngMyhv+g1XyMIMNwrE8435o90jP6+iiK9jdjEvgt0tda1AO1LdU5uoWgLkgv8tGpS8n6/6aEunqUhQxw60oR8c8aqqcOLlX/XSY1SiDhVQJUVpDi9ZSf1De+rwRHrSQ3eb9rBbsagRjmg7Al/1c1JT+qfDAbLegHI/yQTns/tn/e3tydFfqG4z78z3YPFegcmSm95uND0xqlaVOZiFiSXq4Ch8AzD2a6w=="
+
+},
+{
+//Dtac-4
+"config": "6q2CqQeEVeZwWqBHj2vcXz/p40/BUQ5KnuZY7i16aWLUTcuSzlYblH8f2zF2PLqsOPkJueN17raMl+Dm/VS3u3bQEqKBE7Jj7m/asWAg5TBB0WLfjp8lgRGWefJw5cFSUg3kc4suowlTQ1eiTqmGE+KWg6dWN6mRBddw0LWCvfiRBVy9GAtVWA9hp0ndS478D5Our5ehoqCzZ4zq5G20xSErvD0LwjXssn8sWKIMIxVuJOzMwwMVBg=="
+
+},
+{
 //True-1
 "config": "MJlVDu64TySI+PGAjcEUBiY2iUUJiCeNKMjEnrLXGfM9SY21OPDyVgeGE12X97Z2JP27GEtdg2PaFlDXHD7X4m/yU0p4Wk0xifIB3sjfmEwghOpHD69e6vE/GGtmDkJae0+jAew6woqRAF6LyxKV5BFDNWSJ3i0kUFEYsLBnGD/jtcSP4VYcu0tsb2IVM8LXy4gdKSZ7rpYz51Pio0r1nbIL7sEjwRznu3C3gB0oxH2h/glnFiWwMQ=="
 
@@ -52,7 +72,7 @@
 }
 ],
 
-"dtac": "Dtac ဆင်းမ်သုံးပါက မရောင်းသေးပါ \n• DtacNoPro မရောင်းသေးပါ \n \n(မရောင်းသေးပါ)",
+"dtac": "Dtac ဆင်းမ်သုံးပါက DtacNoproဖိုင်ကိုn• ရွေးပီးချိတ်သုံးပါ \n \n(မရောင်းသေးပါ)",
 
 "true": "True ဆင်းမ်သုံးပါက ဆင်းကတ်သက်တန်းအနဲဆုံး 2လရှိရပါမယ် မရှိပါက ဖုန်း‌ဘေ10ဘတ်ထဲ့ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
