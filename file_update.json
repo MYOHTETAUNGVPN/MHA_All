@@ -1,7 +1,7 @@
 {
 
-"version": 120,
-"message": "What's new \nTRUE&DTAC",
+"version": 126,
+"message": "What's new \nDTAC&AIS",
 
 "files": [
 
@@ -27,14 +27,8 @@
 },
 {
 //True-socal1
-"config": 
-"xegPXtwA0BGLXY5v4AIOwGl0grO07KLSOnslq1gTu9C9qQKYyG7MGdsJ9uKo8gcOXC8paSwDDvmP1CetPPaZgq4LNtZhrzt0PNAnV8ksj9t0v7A8D1KOsdC4LdAF08M8sEJVe+v/yET6QPfLGm/mh+Qnxda0z2Q0Zz9wgKLt443xo2wCJJhvV1RNcZZ/Mbmy/qwsGh9NWMOLCNqjfv8ZDDTDuNSvC1xH"
+"config": "xegPXtwA0BGLXY5v4AIOwGl0grO07KLSOnslq1gTu9C9qQKYyG7MGdsJ9uKo8gcOXC8paSwDDvmP1CetPPaZgq4LNtZhrzt0PNAnV8ksj9t0v7A8D1KOsdC4LdAF08M8sEJVe+v/yET6QPfLGm/mh+Qnxda0z2Q0Zz9wgKLt443xo2wCJJhvV1RNcZZ/Mbmy/qwsGh9NWMOLCNqjfv8ZDDTDuNSvC1xH"
 
-},
-{
-//True-socal2
-"config": "XR6OjT+pctdbcbHwBMgA6fCSZHRK125JR4e+Z5Ds885RRX6JRXHg7G0cLtziMt7lHu+KnVY9WzCvar6NJUgsA7SW4QVL9XMnrJ+mD1VtnMBBSYL9JXQWaFXSm7GLLobFvQjMZH2YmcGuc/yoSeNa7uLFG8KqUsq+0w5/j48XEtKW88h2tE6DxxHxDNejcmygko1rb2BtMUSQ5lyw0n50Qo/zvoeblKn3"
-/PQbDFZmneljDFBM2zdYR4ZyjIDTxlLT8DmJIEL4APiBuGKDoHmbpu0hGDUM8P9iwDRETPbz6ZFdannHS26qxg90PaVyTwsYyBhHiBbFC4BVSApPexF0ricyizJ6ew4x7a/uWwRqE0NSKylvx3jFK5+I041HaKyZPLzNsPcpH1ayGYlkJQbvnRof70pIc7zTHbqsSClA27x/ED10k22utckGy1yZBHg=="
       }
 
    ],
