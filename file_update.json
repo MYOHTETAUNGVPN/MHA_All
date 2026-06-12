@@ -1,6 +1,6 @@
 {
 
-"version": 128,
+"version": 10,
 "message": "What's new \nDTAC&AIS",
 
 "files": [
@@ -17,17 +17,17 @@
 },
 {
 //Dtac-2
-"config": "p32Md0edwW3q9DInpcQ1rR1iwflctW99hwOXgEAhn/nEKjYWQ3qe54eWbnbykpIx7PoXdqPZv108kFqt6cwm8bFpWydX21wpiURuemPkqnHX3FoaaQerT/O7mZxU6arjvzE0t2IyhQZKL14CVya4EmrzmzEY/PYqyrZjMT7HzgK26GWnjXIp1Pby7emyUSXjqVDcl7RpUcKIpxGRDLdHgQ=="
+"config": "p32Md0edwW3q9DInpcQ1r1iwflctW99hwOXgEAhn/nEKjYWQ3qe54eWbnbykpIx7PoXdqPZv108kFqt6cwm8bFpWydX21wpiURuemPkqnHX3FoaaQerT/O7mZxU6arjvzE0t2IyhQZKL14CVya4EmrzmzEY/PYqyrZjMT7HzgK26GWnjXIp1Pby7emyUSXjqVDcl7RpUcKIpxGRDLdHgQ=="
 
 },
 {
 //Ais-3
-"config": "p32Md0edwW3q9DInpcQ1rR1iwflctW99hwOXgEAhn/nEKjYWQ3qe54eWbnbykpIx7PoXdqPZv108kFqt6cwm8bFpWydX21wpiURuemPkqnHX3FoaaQerT/O7mZxU6arjvzE0t2IyhQZKL14CVya4EmrzmzEY/PYqyrZjMT7HzgK26GWnjXIp1Pby7emyUSXjqVDcl7RpUcKIpxGRDLdHgQ=="
+"config": "p32Md0edwW3q9DInpcQ1rR1iflctW99hwOXgEAhn/nEKjYWQ3qe54eWbnbykpIx7PoXdqPZv108kFqt6cwm8bFpWydX21wpiURuemPkqnHX3FoaaQerT/O7mZxU6arjvzE0t2IyhQZKL14CVya4EmrzmzEY/PYqyrZjMT7HzgK26GWnjXIp1Pby7emyUSXjqVDcl7RpUcKIpxGRDLdHgQ=="
 
 },
 {
 //Dtac-2
-"config": "p32Md0edwW3q9DInpcQ1rR1iwflctW99hwOXgEAhn/nEKjYWQ3qe54eWbnbykpIx7PoXdqPZv108kFqt6cwm8bFpWydX21wpiURuemPkqnHX3FoaaQerT/O7mZxU6arjvzE0t2IyhQZKL14CVya4EmrzmzEY/PYqyrZjMT7HzgK26GWnjXIp1Pby7emyUSXjqVDcl7RpUcKIpxGRDLdHgQ=="
+"config": "p32Md0edwW3q9DInpcQ1rR1iflctW99hwOXgEAhn/nEKjYWQ3qe54eWbnbykpIx7PoXdqPZv108kFqt6cwm8bFpWydX21wpiURuemPkqnHX3FoaaQerT/O7mZxU6arjvzE0t2IyhQZKL14CVya4EmrzmzEY/PYqyrZjMT7HzgK26GWnjXIp1Pby7emyUSXjqVDcl7RpUcKIpxGRDLdHgQ=="
 
       }
 
