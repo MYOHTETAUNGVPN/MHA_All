@@ -1,6 +1,6 @@
 {
 
-"version": 126,
+"version": 127,
 "message": "What's new \nDTAC&AIS",
 
 "files": [
@@ -11,23 +11,23 @@
 
 },
 {
-//True-1
-"config": "qVvccSK8Wkk3VSWdTo39OuKB8fUn2dXjY+YbRG/qX8QQiF6tYS/82h0vNLjfmD+ha/Fo2NpLcrlxBQRiO8S6VDqUr/oNhoWaUivGF8Y3ABdEKektq75dlw/Rr+cq+87jB9N7M8HhILH7ddKePsdtok+qMyatb9wJ/JqkiR4TUR131m5kvraGvqMOteUb+R2yKKJgB3tyBxldNBfsHPLLa3IYB2GTVbu1"
+//Dtac-1
+"config": "p32Md0edwW3q9DInpcQ1rR1iwflctW99hwOXgEAhn/nEKjYWQ3qe54eWbnbykpIx7PoXdqPZv108kFqt6cwm8bFpWydX21wpiURuemPkqnHX3FoaaQerT/O7mZxU6arjvzE0t2IyhQZKL14CVya4EmrzmzEY/PYqyrZjMT7HzgK26GWnjXIp1Pby7emyUSXjqVDcl7RpUcKIpxGRDLdHgQ=="
 
 },
 {
-//True-2
-"config": "qZ/+nlwcPTu8lxa+EymTAK7Yj42fR0D0ydc7dAOk6SpPJ/V5OQZfvwoUWPXOLILKkCSVKWhXVr0BziyxDKXl40fw9YcUoQcgqmjU7q/frdERcRDH4Pq58jFrjJnrhIJrRzWUcHjxm5etXlxhGKKDk5qkSzw+D7ZY3E32WNjVv/a+HR7exHxlBNBSyHX3dnABcckWqlTEbL4JWbCX2XZo+w=="
+//Dtac-2
+"config": "yZ7lkw9JMWltqBsi+V1N7WdceW3XxjUEBrycD3c0o3vsZXPtBhIH0bkQFVL2VVZ0/rcgDkQ7EQcZUhtJQ6J/ofFzD8WvlIZtaN91EtMHKugJXDaCR0wT+xx0///yaCIeTOHgeYe3tqAUD7gjRct5DO5IFG4Z7Zor422T3xz7EvsLFJRA/fOJuLCSDUwKj8evVJyqz9G7Zgi+670wTytW5Q=="
 
 },
 {
-//True-3
-"config": "JJ2C08v/WX0RgpQIuSsh5XO7JHs1boIpXcNH9m8c+v0WEu4FCB2gxw/17SuT+hiMnfeGNNmLZ1hvd78aiQoZ3ximVRkWHqQmABQtpuWvIP7jpPSKloV6VJXGDyHzs+tJ0RknB+civQkSdMbjNVHh2B6e/QtUx0nLkvqcJB4NA6NFwVqLJEL5Q3jC4eUv9pqb8PH7XYjW2ghj5tyB7vEEng=="
+//Ais-3
+"config": "AiL1MqxyJqSakwjYDZTxsYdV2HT4oM50JOe2srrPv85mhETaIxsYFU1yVYdoOLl0VORIFbacrO6aaWvATCrtt4WF4hi8fBu0L6IXJEpBm7YfmZka+tm8fWVaLjNQXCHCvhePFs9Wc9F98OCHMgim+s1506DeCYnL/77fcMdzOzeieYA+HeobZ2HkgskKcWcEf+27Xg=="
 
 },
 {
-//True-socal1
-"config": "xegPXtwA0BGLXY5v4AIOwGl0grO07KLSOnslq1gTu9C9qQKYyG7MGdsJ9uKo8gcOXC8paSwDDvmP1CetPPaZgq4LNtZhrzt0PNAnV8ksj9t0v7A8D1KOsdC4LdAF08M8sEJVe+v/yET6QPfLGm/mh+Qnxda0z2Q0Zz9wgKLt443xo2wCJJhvV1RNcZZ/Mbmy/qwsGh9NWMOLCNqjfv8ZDDTDuNSvC1xH"
+//Dtac-2
+"config": "yZ7lkw9JMWltqBsi+V1N7WdceW3XxjUEBrycD3c0o3vsZXPtBhIH0bkQFVL2VVZ0/rcgDkQ7EQcZUhtJQ6J/ofFzD8WvlIZtaN91EtMHKugJXDaCR0wT+xx0///yaCIeTOHgeYe3tqAUD7gjRct5DO5IFG4Z7Zor422T3xz7EvsLFJRA/fOJuLCSDUwKj8evVJyqz9G7Zgi+670wTytW5Q=="
 
       }
 
