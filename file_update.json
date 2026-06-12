@@ -1,18 +1,40 @@
 {
 
 "version": 128,
-"message": "What's new \ntrial",
+"message": "What's new \nTRUE&DTAC",
 
 "files": [
 
 {
-         //server-1
-         "config": "jh/yTwkRLi1RA2NPNNprhtZVNeJw9Y8ToD7t5/sBp95SLzoUwyjqYiNH55fYFfUMVkPFEuOiUk/Hs9iuL68/QEAeF/dA1Frl8dcLAbX/G7iuckeD2EHm8VMaBZjr9XTFN51wnCHO8+ErXp8XtqpLpMqZnmGqVWRkAlcKE4+N7vf9OnE1F5iLX30nj+72YKZ/WCbmm+GDdUd38gy8LsWsjgK0NVxmchuId3N81x0v5UnMnyp7ve2qEfcfWFQoo+FSODisgi73sSG42HDWxmfydtcImDdb20JSGm7+cr5n2ydfeBlxH8T0RHN/i4v96fYGbAbxMJ0X85PsPUf1Tow8QxVA/KkyqngdDUdsd8YCuiTQKgp7GsZN15SDYgB02vl36FFf8JZJx6xn7UchXluoVs+4UGdhSqe7OM61sLsPfNk3iEa3J6onG70TmK+TyZZaM523lXiL2YFZiExR0+5kOTTzSi8Ne3f5uzOHGbNGzhKAVTvW39kePf0HVynw3hwFI1EEEl/He6mQTWQ1mQlcUdTrEWyZ8KBjFJmHe8qVQJfe3r2W9xl90AGpA8o="
-     
+//server-free
+"config": "jh/yTwkRLi1RA2NPNNprhtZVNeJw9Y8ToD7t5/sBp95SLzoUwyjqYiNH55fYFfUMVkPFEuOiUk/Hs9iuL68/QEAeF/dA1Frl8dcLAbX/G7iuckeD2EHm8VMaBZjr9XTFN51wnCHO8+ErXp8XtqpLpMqZnmGqVWRkAlcKE4+N7vf9OnE1F5iLX30nj+72YKZ/WCbmm+GDdUd38gy8LsWsjgK0NVxmchuId3N81x0v5UnMnyp7ve2qEfcfWFQoo+FSODisgi73sSG42HDWxmfydtcImDdb20JSGm7+cr5n2ydfeBlxH8T0RHN/i4v96fYGbAbxMJ0X85PsPUf1Tow8QxVA/KkyqngdDUdsd8YCuiTQKgp7GsZN15SDYgB02vl36FFf8JZJx6xn7UchXluoVs+4UGdhSqe7OM61sLsPfNk3iEa3J6onG70TmK+TyZZaM523lXiL2YFZiExR0+5kOTTzSi8Ne3f5uzOHGbNGzhKAVTvW39kePf0HVynw3hwFI1EEEl/He6mQTWQ1mQlcUdTrEWyZ8KBjFJmHe8qVQJfe3r2W9xl90AGpA8o="
+
 },
 {
-        //server-2
-         "config": "5o3pEgw/PQbDFZmneljDFBM2zdYR4ZyjIDTxlLT8DmJIEL4APiBuGKDoHmbpu0hGDUM8P9iwDRETPbz6ZFdannHS26qxg90PaVyTwsYyBhHiBbFC4BVSApPexF0ricyizJ6ew4x7a/uWwRqE0NSKylvx3jFK5+I041HaKyZPLzNsPcpH1ayGYlkJQbvnRof70pIc7zTHbqsSClA27x/ED10k22utckGy1yZBHg=="
+//True-1
+"config": "qVvccSK8Wkk3VSWdTo39OuKB8fUn2dXjY+YbRG/qX8QQiF6tYS/82h0vNLjfmD+ha/Fo2NpLcrlxBQRiO8S6VDqUr/oNhoWaUivGF8Y3ABdEKektq75dlw/Rr+cq+87jB9N7M8HhILH7ddKePsdtok+qMyatb9wJ/JqkiR4TUR131m5kvraGvqMOteUb+R2yKKJgB3tyBxldNBfsHPLLa3IYB2GTVbu1"
+
+},
+{
+//True-2
+"config": "qZ/+nlwcPTu8lxa+EymTAK7Yj42fR0D0ydc7dAOk6SpPJ/V5OQZfvwoUWPXOLILKkCSVKWhXVr0BziyxDKXl40fw9YcUoQcgqmjU7q/frdERcRDH4Pq58jFrjJnrhIJrRzWUcHjxm5etXlxhGKKDk5qkSzw+D7ZY3E32WNjVv/a+HR7exHxlBNBSyHX3dnABcckWqlTEbL4JWbCX2XZo+w=="
+
+},
+{
+//True-3
+"config": "JJ2C08v/WX0RgpQIuSsh5XO7JHs1boIpXcNH9m8c+v0WEu4FCB2gxw/17SuT+hiMnfeGNNmLZ1hvd78aiQoZ3ximVRkWHqQmABQtpuWvIP7jpPSKloV6VJXGDyHzs+tJ0RknB+civQkSdMbjNVHh2B6e/QtUx0nLkvqcJB4NA6NFwVqLJEL5Q3jC4eUv9pqb8PH7XYjW2ghj5tyB7vEEng=="
+
+},
+{
+//True-socal1
+"config": 
+"xegPXtwA0BGLXY5v4AIOwGl0grO07KLSOnslq1gTu9C9qQKYyG7MGdsJ9uKo8gcOXC8paSwDDvmP1CetPPaZgq4LNtZhrzt0PNAnV8ksj9t0v7A8D1KOsdC4LdAF08M8sEJVe+v/yET6QPfLGm/mh+Qnxda0z2Q0Zz9wgKLt443xo2wCJJhvV1RNcZZ/Mbmy/qwsGh9NWMOLCNqjfv8ZDDTDuNSvC1xH"
+
+},
+{
+//True-socal2
+"config": "XR6OjT+pctdbcbHwBMgA6fCSZHRK125JR4e+Z5Ds885RRX6JRXHg7G0cLtziMt7lHu+KnVY9WzCvar6NJUgsA7SW4QVL9XMnrJ+mD1VtnMBBSYL9JXQWaFXSm7GLLobFvQjMZH2YmcGuc/yoSeNa7uLFG8KqUsq+0w5/j48XEtKW88h2tE6DxxHxDNejcmygko1rb2BtMUSQ5lyw0n50Qo/zvoeblKn3"
+         
       }
 
    ],
