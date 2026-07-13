@@ -1,7 +1,7 @@
 
 {
 
-"version": 139,
+"version": 140,
 "message": "What's new \nDtac v2ray Nopro",
 
 "files": [
@@ -13,19 +13,19 @@
 },
 {
         //server-1
-         "config": "xlJSD29OFxZdA7TFoKBlpiTqMWJbqkPJLS/8p95GQ7Uk1oXHlnKFRPzF8fhR/eSBf1xbIogVOMaBpXguorxZXWksKAmJSQr9+y+9GUp9hwNmj9IV3YQubm/lBkoGdxCGPajUfBzQtRH8HmaKBIBpgPfkuKDn4Vh6GZHavJcN9SqGr9w9K/jMH6RA3KF8cZWY1Q8/BFnUcAK1NiexoujeURAYLxk="
+         "config": "dC/kY+ZdLii8T05afYMFLm6MW6OhqvpO7l/iIvM0Q2EqIEzHiHNySiNiAEkoxsEhKOrIT85aCEABqkbQ6RXHfF1Q12Wmg7RXOT8Yq664pt0rosV5NubkGf8Mpp/SQ8gjlrENRpXR7u4BQUnScf05ottNUCusWGXj1MmGk/W7wj+HnJRSkFKvJ0gBuOdBkDYcJ5VX5Seh3lwAbdu9vCRU1iqOhso="
 },
 {
         //server-2
-         "config": "0r9txLXTIZcv5PJa0Ov5XZTkZYqgyMyuyLNNfAAIKZef6WbEf/pHphPqv8cYi3iScH/ZQsHR+Wgyf3b7d66Nyi+dVOfiDbPNsz+TEfHrJQkEqvRDXr2Ky3qctXqxYDeqZSTV9G8oRjDOIAiuDzV6fbQ8AshLgGiGS+XZMUwkmKiiVNnCLDsbXkTpfbfXWuK956gy2tgMACw5oKFsQr+/iJx61GeiR49jKxJ1nA=="
+         "config": "ZFBMRLhzhFa7llGx8SAXeVfZSgvMgcS5J9PdlOgSWvWtrBOjjLMQx3euuIqUR7j64ZUURR1MbeN5QDwf6fbh9p1JTzO92+uO/rc28+nXbOO9ZIRU8fU4S5Hcs3KjvQERmyeCqjtqCkmERBKUBeXCBICmpZtnTXAzX1GgZa8a1Vdwy2ZiQcQx/5XVQGe87J9SfHxx+pcjQDspm1FJpbvOxkRSnVG09eSP"
       }
 
    ],
 
 "dtac": "Dtac ဆင်းမ်သုံးပါက ဘာမှစမတ်စရာမလိုပါ \n• DtacNoPro ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
-"true": "True ဆင်းမ်သုံးပါက \n • TrueNoPro သုံးမရသေးပါ \n \n(SORRY)",
+"true": "True ဆင်းမ်သုံးပါက\n• TrueNoPro သုံးမရသေးပါ\n (SORRY)",
 
-"ais": "Ais ဆင်းမ်သုံးပါက \n သုံးမရသေးပါ \n \n \n \n •  \n \n(SORRY)"
+"ais": "Ais ဆင်းမ်သုံးပါက\n• Ais Nopro သုံးမရသေးပါ\n (SORRY)"
 
 }
