@@ -1,7 +1,7 @@
 
 {
 
-"version": 143,
+"version": 144,
 "message": "What's new \nDTAC v2ray Nopro",
 
 "files": [
@@ -13,11 +13,7 @@
 },
 {
         //server-1
-         "config": "Q8JdI0KeCGc+LAFm57ewrqcAlUr3mkp+xwmXWeCsWugw3vRy45hd0yUdsb4QFw39OLA5MBbC0xPxQ6V/P894WWIQqG4Kltfz+/QB1tGH+dslNRh6MSkHxu1CIWTRR1aUarMS2WgVEHJAJkHEWPoFMz2xsOKtFnjstE+nGnV2boNcfoJNPQBBw/oF6u0oEg/FZfLPKRpb5DwG46VU/LKla6mp1xvpjEkR"
-},
-{
-        //server-2
-         "config": "Q8JdI0KeCGc+LAFm57ewrqcAlUr3mkp+xwmXWeCsWugw3vRy45hd0yUdsb4QFw39OLA5MBbC0xPxQ6V/P894WWIQqG4Kltfz+/QB1tGH+dslNRh6MSkHxu1CIWTRR1aUarMS2WgVEHJAJkHEWPoFMz2xsOKtFnjstE+nGnV2boNcfoJNPQBBw/oF6u0oEg/FZfLPKRpb5DwG46VU/LKla6mp1xvpjEkR"
+         "config": "z0nVWXCpGE5kTjOQh4PH1fnpQfT62i+eelhyuwPaB3RoQ++mrMg0//hWrTBtk202DonT39MMxBo6gzcWbwlhSG9FNr9MwataOVr+zMPQrSuAlbLpbUqO51xXDHx69NdimuXCBoK48jQos0QG+lVnx2UvGjujVnrNvOWQJOLoelcDaie/5fxR36YTMWGqe5UJsylnNSGKcHgx5m/wy0PlZclt9Co="
       }
 
    ],
