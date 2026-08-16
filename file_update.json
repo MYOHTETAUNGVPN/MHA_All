@@ -1,8 +1,8 @@
 
 {
 
-"version": 145,
-"message": "What's new \nDTAC v2ray Nopro",
+"version": 146,
+"message": "What's new \nDtac v2ray Nopro",
 
 "files": [
 
@@ -14,14 +14,18 @@
 {
         //server-1
          "config": "WeRVxcWbR0OKUDvwkFxa18eEI7Ei+Vm7Q7dGU6l8J5tOqZ3r30nlAA24TlfZiC1bV1ajz/S/EttAhwLIuV7mJ54Y39ZvzfDowQgAV8jbbBr91SO0OhEyZFWmV3QgDWFbU15fdXo7iCSg4/Zu+pudoI9aL1jxUMahdvGf8XB4zU+nf8p4c2yWJ6oHDFv1ZqZxdKK004x91zSj1XYuXrsJO+tDXTs="
+},
+{
+        //server-2
+         "config": "WeRVxcWbR0OKUDvwkFxa18eEI7Ei+Vm7Q7dGU6l8J5tOqZ3r30nlAA24TlfZiC1bV1ajz/S/EttAhwLIuV7mJ54Y39ZvzfDowQgAV8jbbBr91SO0OhEyZFWmV3QgDWFbU15fdXo7iCSg4/Zu+pudoI9aL1jxUMahdvGf8XB4zU+nf8p4c2yWJ6oHDFv1ZqZxdKK004x91zSj1XYuXrsJO+tDXTs="
       }
 
    ],
 
 "dtac": "Dtac ဆင်းမ်သုံးပါက ဘာမှစမတ်စရာမလိုပါ \n• DtacNoPro ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
 
-"true": "True ဆင်းမ်သုံးပါက\n• TrueNoPro သုံးမရသေးပါ\n     (SORRY)",
+"true": "True ဆင်းမ်သုံးပါက\n• TrueNoPro သုံးမရသေးပါ\n (SORRY)",
 
-"ais": "Ais ဆင်းမ်သုံးပါက\n• Ais Nopro သုံးမရသေးပါ\n     (SORRY)"
+"ais": "Ais ဆင်းမ်သုံးပါက\n• Ais Nopro သုံးမရသေးပါ\n (SORRY)"
 
 }
