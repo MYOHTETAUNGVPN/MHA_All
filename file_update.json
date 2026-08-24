@@ -1,7 +1,7 @@
 
 {
 
-"version": 147,
+"version": 148,
 "message": "What's new \nDtac v2ray Nopro",
 
 "files": [
@@ -13,11 +13,11 @@
 },
 {
         //server-1
-         "config": "l5wQYnWGaFPVAogpC/gUo4m4G6AnATGH6UmYhHVGukLEMKBGZ0BOyimWKBetb0co0605rZJ7dNwEOV4H+UPdcu5PzYur22/5Kh7NyS1xelDlzFMAz2G2x+aEb3V8m13OlfsR2vINCBHDLCkYYU/pXyQ8TTrTpM1gwL11f0zmwjKdXSKHzzI5Luj9c9+rI1G1Ts5vP4CNjQpyvNms5DgZqGharik="
+         "config": "ZgE7LbGkzIpGmqK3dAwoXnBWtTsjH3+Ep5dK//uBzlHpMguSqOYTwPdCHo9U9L37tRgQsWLM36fFy7JY8hiskAF0dlkxnUrzlDd60G7i5tiCz6G5CeC4YByNJyFkpbUbanx8JI7Lf4UB1Wtjgi6amnGierbXcuE9XHBcwjVv/BAJziF2NIe/CpPQzlyoNMhO+iDg+e/zxExwrUDWdhhvxg=="
 },
 {
         //server-2
-         "config": "l5wQYnWGaFPVAogpC/gUo4m4G6AnATGH6UmYhHVGukLEMKBGZ0BOyimWKBetb0co0605rZJ7dNwEOV4H+UPdcu5PzYur22/5Kh7NyS1xelDlzFMAz2G2x+aEb3V8m13OlfsR2vINCBHDLCkYYU/pXyQ8TTrTpM1gwL11f0zmwjKdXSKHzzI5Luj9c9+rI1G1Ts5vP4CNjQpyvNms5DgZqGharik="
+         "config": "ZgE7LbGkzIpGmqK3dAwoXnBWtTsjH3+Ep5dK//uBzlHpMguSqOYTwPdCHo9U9L37tRgQsWLM36fFy7JY8hiskAF0dlkxnUrzlDd60G7i5tiCz6G5CeC4YByNJyFkpbUbanx8JI7Lf4UB1Wtjgi6amnGierbXcuE9XHBcwjVv/BAJziF2NIe/CpPQzlyoNMhO+iDg+e/zxExwrUDWdhhvxg=="
       }
 
    ],
