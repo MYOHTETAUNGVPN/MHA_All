@@ -1,8 +1,8 @@
 
 {
 
-"version": 151,
-"message": "What's new \nDtac v2ray Nopro Ais Pay",
+"version": 152,
+"message": "What's new \nDtac v2ray Nopro",
 
 "files": [
 
@@ -12,12 +12,18 @@
      
 },
 {
-        //server-1
+        //Dtac-1
          "config": "MZ5tq0TUh03g2OOAcXk/EUPpM/gNBHxWY1Cv2RPIwng4vHJsG2a5WBbfMawFOI5rm9hd6vyE8F6X32S94YxgJr61NuRgoniUvG0iU6sC4hy65gRFB8g2f5purZvwA57mqICDjGEc6NX7EXj7PB1Yv7M9vabRg5Zf6JECwpyWzsqQRolp2UDl2PiOy+wlbJvjHnsN1BlKbNZPJhT0cxcNlBWNzVk="
+
 },
 {
-        //server-2
+        //Ais-2
          "config": "0HpsOWvKqsa7SPHlg50K1mOAO7h0TgN5aBm+DPjgfvv11VUGXkB2kBAPN3E+C1Refcnvh8Wyg5vpINdGpXSmp0rsIhk+ggcxcPtHP5JYyBvwV+UfVqGGMNCnKCnt+F7dQLAiqXOkeV7hrHDsBAeXJZyPrB7/7FItSQUBEKkZnH0hV03wotX5pOa4i9RQ/dT5gHAujlseUHkVt0q8PS0paQnEJKq80gWj"
+
+ },
+{
+        //Ais-3
+         "config": "5e6IP3555/anFhTcIpdu+H141e4OOmdC/GdfPygPfTyo3kcEHBAxbROhHhpnMsyxwfE7SZ556c+5CLaZF6lh9+VwiHjxKL8TRSg7+1s3++EM2Qd4qdjN2F8kkSExOe5VBQIpxAJXUiv7BSrLxTio3yEDNlyc7ySyzw+gnlYyUqq9uPOM5qsHrZcrJw1n0rEeNJytT3jCzUWt368ajvlNYfVsonSPc6zL"
       }
 
    ],
