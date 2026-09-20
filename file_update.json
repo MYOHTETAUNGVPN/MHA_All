@@ -1,8 +1,8 @@
 
 {
 
-"version": 152,
-"message": "What's new \nDtac v2ray Nopro",
+"version": 153,
+"message": "What's new \nDtac v2ray Nopro Ais pay",
 
 "files": [
 
@@ -13,6 +13,11 @@
 },
 {
         //Dtac-1
+         "config": "ChDUPyw+xwuev6CsV3fxaHO3H/HTsnCukp6g3W5m9E37DoUY9O+QEnB/AsWr0o/IS5dFsmXeGcPK251h9x+rwwkeZqCO/GL5G/9ESovx4d6HebObl3KAuHFOnlwqWrIOPCgJYhIGI6mS0c3I3tbfH94aDwrhEh/a2OlU7bXPGsrp7XQ0AXf+egLRK7t1vC5V/bhuaIkNHl0kSvtGXEgkDTABgfpE8xKRX/Eq0s/+W2W03yVHuU8UYFQzyRV0mrz2ueNdFiyC/+XLsm1vOmv8Hjt8SsR0UhorbvM1ATeZZI5SQEu13jBUQ82uarikbtytzU96xQ=="
+
+},
+{
+        //Dtac-2
          "config": "MZ5tq0TUh03g2OOAcXk/EUPpM/gNBHxWY1Cv2RPIwng4vHJsG2a5WBbfMawFOI5rm9hd6vyE8F6X32S94YxgJr61NuRgoniUvG0iU6sC4hy65gRFB8g2f5purZvwA57mqICDjGEc6NX7EXj7PB1Yv7M9vabRg5Zf6JECwpyWzsqQRolp2UDl2PiOy+wlbJvjHnsN1BlKbNZPJhT0cxcNlBWNzVk="
 
 },
